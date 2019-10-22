@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRest", "MusicRest\MusicRest.csproj", "{BCC11AA3-1F6B-4DAC-AE39-C95C2D8300F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modellib", "Modellib\Modellib.csproj", "{0EF5629D-FE26-40D9-9BAD-F6FC81B103A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRestTest", "MusicRestTest\MusicRestTest.csproj", "{6025245B-FEAF-4CA9-851C-09DDA174C321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC11AA3-1F6B-4DAC-AE39-C95C2D8300F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC11AA3-1F6B-4DAC-AE39-C95C2D8300F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC11AA3-1F6B-4DAC-AE39-C95C2D8300F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC11AA3-1F6B-4DAC-AE39-C95C2D8300F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF5629D-FE26-40D9-9BAD-F6FC81B103A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF5629D-FE26-40D9-9BAD-F6FC81B103A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF5629D-FE26-40D9-9BAD-F6FC81B103A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF5629D-FE26-40D9-9BAD-F6FC81B103A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6025245B-FEAF-4CA9-851C-09DDA174C321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6025245B-FEAF-4CA9-851C-09DDA174C321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6025245B-FEAF-4CA9-851C-09DDA174C321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6025245B-FEAF-4CA9-851C-09DDA174C321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34F2D06-F827-4E0B-B0F7-18A62579E796}
+	EndGlobalSection
+EndGlobal
